@@ -3,7 +3,7 @@
 LifeStoriesAI - A digital platform for family and friends to collaborate and celebrate a person's life story, family history and connections suppoorted and curated by AI.
 
 Introduction:
-Imagine a digital space where families and friends come together to celebrate lives, share memories, and connect across generations. A space where stories are preserved, legacies are honoured, and the tapestry of family history is woven with love and care. This is the vision behind [LifeThreads], a multi-generational legacy platform powered by cutting-edge AI and driven by a passionate community.
+Imagine a digital space where families and friends come together to celebrate lives, share memories, and connect across generations. A space where stories are preserved, legacies are honoured, and the tapestry of family history is woven with love and care. This is the vision behind [LifeStoriesAI.com], a multi-generational legacy platform powered by cutting-edge AI and driven by a passionate community.
 
 Vision:
 To create a vibrant and user-friendly online platform that empowers individuals and families to:
